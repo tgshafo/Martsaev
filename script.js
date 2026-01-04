@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('⚡ Адаптер Краплова загружен');
+    console.log('⚡ Адаптер Марцева загружен');
     
     initTechEffects();
     initAvatarAnimation();
